@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_brosur.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_edit_customer_profile.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_edit_driver.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_edit_driver_profile.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_edit_profile.xml" value="0.1503623188405797" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_home_customer.xml" value="0.13405797101449277" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_home_driver.xml" value="0.13949275362318841" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_home_manager.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_laporan.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_profile_customer.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_profile_driver.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_promo.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_riwayat_transaksi.xml" value="0.15896739130434784" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_riwayat_transaksi_customer.xml" value="0.15489130434782608" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_riwayat_transaksi_driver.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/activity_view_brosur.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/item_brosur.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/item_list.xml" value="0.13903985507246377" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/item_promo.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/item_transaksi.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/item_transaksi_driver.xml" value="0.3347921225382932" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/layout/layout_loading.xml" value="0.14402173913043478" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/menu/navbar.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/menu/navbar_customer.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/menu/navbar_driver.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/menu/navbar_manager.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18703703703703703" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18703703703703703" />
+        <entry key="..\:/AndroidStudioProjects/AJR/app/src/main/res/xml/provider_paths.xml" value="0.12545289855072464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

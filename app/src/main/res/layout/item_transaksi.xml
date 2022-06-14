@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_transaksi"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:layout_margin="2dp"
+    android:clickable="false"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardCornerRadius="5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/tv_idTransaksi"
+                    style="@style/TextAppearance.MaterialComponents.Body2"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/id_transaksi" />
+
+                <TextView
+                    android:id="@+id/tv_tglTransaksi"
+                    style="@style/TextAppearance.MaterialComponents.Caption"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/tgl_transaksi" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/tv_nama"
+                    style="@style/TextAppearance.MaterialComponents.Caption"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nama_cus" />
+
+                <TextView
+                    android:id="@+id/tv_promo"
+                    style="@style/TextAppearance.MaterialComponents.Caption"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/nama_promo" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/tv_namaPegawai"
+                    style="@style/TextAppearance.MaterialComponents.Caption"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nama_pegawai" />
+
+                <TextView
+                    android:id="@+id/tv_namaMobil"
+                    style="@style/TextAppearance.MaterialComponents.Caption"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/nama_mobil" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/tv_namadriver"
+                    style="@style/TextAppearance.MaterialComponents.Caption"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nama_driver" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_statTransaksi"
+                    style="@style/TextAppearance.MaterialComponents.Body2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/status_transaksi"
+                    android:gravity="center_horizontal"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
